@@ -21,7 +21,7 @@ function clicar(){
     const conteiner = document.getElementById('divprinc')
     const conteiner2 = document.getElementsByClassName('conteiner_resultado')[0]
     const resultado = document.getElementById('res')
-    conteiner.style.height = '430px'
+    conteiner.style.height = '450px'
     imagem.style.display = 'block'
     conteiner2.style.display = 'flex'
     conteiner2.style.fontSize = '1.6rem'
